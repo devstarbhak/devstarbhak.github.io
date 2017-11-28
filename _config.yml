@@ -36,9 +36,9 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           https://www.facebook.com/softwaredevstarbhak/
-instagram:          https://www.instagram.com/starbhak_rpl
-github:             https://devstarbhak.github.io/
+facebook:           softwaredevstarbhak
+instagram:          starbhak_rpl
+github:             devstarbhak
 
 # personal
 location:           Depok Jawa Barat Indonesia
